@@ -1,0 +1,35 @@
+_repo: Cassell-s-Natural-History-Vol-1-of-6_55660
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Duncan, P. Martin (Peter Martin)
+    aliases:
+    - Duncan, Martin (Peter Martin)
+    - Duncan, Peter Martin
+    - Duncan, P. M. (Peter Martin)
+    birthdate: 1821
+    deathdate: 1891
+    gutenberg_agent_id: '43373'
+    url: http://www.gutenberg.org/2009/agents/43373
+  - agent_name: Murie, James
+    gutenberg_agent_id: '48443'
+    url: http://www.gutenberg.org/2009/agents/48443
+  - agent_name: Dallas, W. S. (William Sweetland)
+    alias: Dallas, William Sweetland
+    birthdate: 1824
+    deathdate: 1890
+    gutenberg_agent_id: '41383'
+    url: http://www.gutenberg.org/2009/agents/41383
+description: ''
+gutenberg_issued: '2017-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55660'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cassell's Natural History, Vol. 1 (of 6)
+url: http://www.gutenberg.org/ebooks/55660
